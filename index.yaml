@@ -3,7 +3,7 @@ entries:
   sdp-helm-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-28T03:07:06.46747-04:00"
+    created: "2020-04-28T03:15:16.131453-04:00"
     dependencies:
     - name: jenkins
       repository: ""
@@ -14,9 +14,9 @@ entries:
       name: selenium
       repository: ""
     description: A Helm chart for the solutions delivery platform
-    digest: ad8411fcb07ca0a0f08deab07f8428b64e9e7362e463556ce668ddfd9dd8545c
+    digest: 067aa9d5f9f3c917686b6b6f0480a429ef51e7b2f81e61fc6fce8c4c69403572
     name: sdp-helm-chart
     urls:
     - https://salt-mountain.github.io/helm-chart-repo/sdp-helm-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2020-04-28T03:07:06.463263-04:00"
+generated: "2020-04-28T03:15:16.128498-04:00"
